@@ -1,6 +1,6 @@
 jwt-config:
   expiration-duration-in-minutes: 120
-  secret-key-string: some-secret-key-some-secret-key-some-secret-key
+  secret-key-string: prod-some-secret-key-some-secret-key-some-secret-key
 
 gateway:
   ip: 127.0.0.1
